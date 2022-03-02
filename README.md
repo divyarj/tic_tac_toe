@@ -1,1 +1,4 @@
 # tic_tac_toe
+
+
+The main objective of this game is to provide the chance for winner to choose their option (either ‘x’ or ‘o’), and make both of them to play alternatively. One of the players will get to win when they draw a diagonal, vertical or horizontal line by using the option that they have chosen. This coding is done using python basics like functions and lists. The program starts by asking the winner to choose their letter followed by choosing their blocks to insert their letter. For each time it checks for the winner and if any one of the players win then the game quits by displaying each player has won the game.
